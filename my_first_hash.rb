@@ -1,7 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
  my_hash = {"key" => "value"}
-  
 end
 
 
@@ -35,7 +34,7 @@ end
 
   # add 4 gun powder to the shipping_manifest hash below
   shipping_manifest["gun powder"] = 4
-end
+  end
 
   # return the shipping_manifest hash below
   put shipping_manifest
