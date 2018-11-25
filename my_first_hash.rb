@@ -39,4 +39,3 @@ end
   # return the shipping_manifest hash below
   put shipping_manifest
   end
-end
